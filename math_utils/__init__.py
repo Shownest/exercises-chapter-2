@@ -1,0 +1,1 @@
+from math_utils import is prime
